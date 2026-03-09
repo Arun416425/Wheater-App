@@ -1,4 +1,4 @@
-const apiKey = "26c9f6f9a8f3e82a6982d11183835b4b";
+const apiKey = 'apikey;
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
@@ -42,4 +42,5 @@ searchBtn.addEventListener("click", () => {
     checkWeather(searchBox.value);
     weather.style.display = "block";
 })
+
 
