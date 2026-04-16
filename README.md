@@ -17,4 +17,4 @@
 ## 🔧 Installation
 1. Clone the repo:
    ```bash
-   git clone <pre>[https://github.com/yourusername/weather-app.git](https://github.com/yourusername/weather-app.git)
+   git clone [https://github.com/yourusername/weather-app.git](https://github.com/yourusername/weather-app.git)
