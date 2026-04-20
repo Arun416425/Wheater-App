@@ -1,4 +1,4 @@
-<h1>🌤️ SkyCast Weather App</h1>
+<h1>🌤️ SkyCast Weather App </h1>
 
 <li>A lightweight, responsive weather application built with vanilla JavaScript that provides real-time weather data using the OpenWeatherMap API.</li>
 
